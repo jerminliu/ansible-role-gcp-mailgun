@@ -2,7 +2,7 @@
 
 Playbooks for common tasks
 
-- [mailgun-postfix](mailgun-postfix.yml)
+- [mailgun-postfix](mailgun-postfix.yml) - Sets up Mailgun relay in Postfix to allow sending emails in GCP
 
   ```
     ansible-playbook \
