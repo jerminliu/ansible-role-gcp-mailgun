@@ -1,4 +1,4 @@
-# Automates streps from
+# Automates steps from
 # https://cloud.google.com/compute/docs/tutorials/sending-mail/using-mailgun
 
 - hosts: all
